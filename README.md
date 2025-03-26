@@ -61,5 +61,5 @@ Describe the major technical or non-technical challenges your team encountered.
 - 🔹 Other: OpenAI API / Twilio / Stripe
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
+- **Your Name** - f-p-a-challenger
 - **Teammate 2** - Baij Nath Thakur,Bhumanayu Tripathy, Ranjit Ojha, Vardhaman Jain, Mahesbabu Bandaru.
